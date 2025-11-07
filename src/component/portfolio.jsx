@@ -18,7 +18,7 @@ import {
   FaInstagram
 } from "react-icons/fa";
 
-import "./component/Portfolio.css";
+import "./component/portfolio.css";
 
 const Portfolio = () => {
   useEffect(() => {
