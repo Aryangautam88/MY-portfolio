@@ -187,19 +187,10 @@ const Portfolio = () => {
           <div className="about-text">
             <h3>Hi! My name is Aryan and I'm a web Developer and Designer.</h3>
             <p>
-              I created this social media marketing agency because I believe most
-              businesses are not living up to their fullest potential on social
-              media to maximize their business growth — something I wanted to
-              help with.
-            </p>
-            <p>
-              Anyone can have social media, but few businesses use the tool well.
-              However, the right strategy leads to more than a place; it allows
-              your brand to grow and scale rapidly by capturing your most
-              qualified marketing through advanced clients like Instagram,
-              Airtable, Later, Meta, and LinkedIn. My team and I are ready to
-              help you develop strategies to attract your dream audience and
-              ultimately take your business to new heights.
+              I started this web development journey because I believe most businesses still don’t use the full potential of the digital world to grow and stand out online — something I wanted to change.
+                </p>
+                <p>
+              Anyone can have a website, but few truly leverage it as a powerful tool for growth. With the right design, performance, and strategy, a website becomes more than just pages — it becomes an experience that builds trust, attracts the right audience, and drives real results. My team and I help businesses craft high-performing, responsive, and user-focused websites that elevate their brand and take their digital presence to the next level.
             </p>
 
             <div className="hire">
