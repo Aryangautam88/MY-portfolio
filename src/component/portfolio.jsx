@@ -409,7 +409,7 @@ const Portfolio = () => {
       </section>
 
 
-      <footer className="footer">
+      <footer id="Contact" className="footer">
         <h1 className="footer-logo">Aryan</h1>
 
         <div className="footer-top">
