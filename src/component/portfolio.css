@@ -584,6 +584,7 @@ span.arrow {
   }
 
   .cta {
+    margin-top: 10px;
     width: 100%;
     justify-content: center;
   }
@@ -714,7 +715,7 @@ span.arrow {
   margin-left: 20px;
   padding: 4px 6px 1px 6px;
   border: 1.3px solid black;
-  color: red;
+  color: #4a3f35;
   border-radius: 8px;
   font-size: 1.5rem;
   transition: color 0.3s ease, transform 0.3s ease;
@@ -1277,7 +1278,7 @@ span.arrow {
 
   .skills-header {
     margin-top: -100px;
-    padding-left: 9%;
+    
   }
 
   .skills-header h1 {
@@ -1901,6 +1902,14 @@ span.arrow {
 }
 
 @media (max-width: 400px) {
+
+  .footer-top{
+    margin-left: -30px;
+  }
+  .footer-middle ul{
+    margin-left: -30px;
+  }
+
   .footer {
     padding: 20px 10px 10px 10px;
   }

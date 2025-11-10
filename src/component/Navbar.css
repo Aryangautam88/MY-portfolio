@@ -143,10 +143,12 @@
 @media (max-width: 400px) {
 
   .navbar {
+
     width: 400px;
-    margin-top: 5px;
+    /* margin-top: 5px; */
     padding: 5px 5px;
-    
+    background-color: #f4ebdb;
+    position: absolute;
 
   }
 
